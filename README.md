@@ -14,4 +14,6 @@
 
 第一次写，有些地方不完善的请见谅，同时有些图片有反爬机制，正在研究中。
 
-
+抓取后的数据如下：
+https://github.com/liuxiaolei319/meizitu/blob/master/1518320070.jpg
+https://github.com/liuxiaolei319/meizitu/blob/master/1518320090(1).jpg
